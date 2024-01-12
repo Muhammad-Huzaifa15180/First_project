@@ -3,8 +3,9 @@ import Hero from "./components/Hero";
 import Navigation from "./components/Navigation";
 const App =() => {
    return(
-    <><Navigation />
-    <Hero />
+    <>
+      <Navigation />
+      <Hero />
     </>
    );
 };
